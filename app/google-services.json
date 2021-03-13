@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182318707449",
+    "project_id": "spinnerretrive",
+    "storage_bucket": "spinnerretrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182318707449:android:6a2edaec514908fb00a828",
+        "android_client_info": {
+          "package_name": "com.example.firebasespinnerretrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182318707449-akogp4tm50psurncvbu6e99lcn5cl3s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv0kp56LZxgRMV2A1VDpgELQWZkXg_0R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182318707449-akogp4tm50psurncvbu6e99lcn5cl3s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
